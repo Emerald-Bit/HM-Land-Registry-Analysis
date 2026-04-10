@@ -1,5 +1,7 @@
 # Analysis of Overseas-Owned Property Acquisition Data and Sanctions Matching
 
+### Executive Summary
+
 **Business Context and Objective**
 
 Essentially, the business question behind the work was straightforward: could ownership records be linked to sanctions records well enough to support further investigation into patterns of acquisition and possible post-designation ownership changes? In practice, however, that question quickly became a rigorous data-quality and matching problem. It should be noted that property ownership datasets and sanctions lists do not always share a stable universal identifier. Furthermore, name fields are frequently inconsistent, incomplete, and formatted differently across various sources.
