@@ -11,8 +11,11 @@ To resolve this, I worked primarily in SQL, utilising cleaned Land Registry owne
 **Stack:** SQL and Snowflake.
 
 **Data Sources:**
+
 •	 UK Sanctions List 
+
 •	 OCOD (Overseas Companies Ownership of Data) 
+
 •	 Companies House PSC Data 
 
 Please view the report for more information.
