@@ -1,5 +1,9 @@
 # Analysis of Overseas-Owned Property Acquisition Data and Sanctions Matching
 
+
+![Image](https://github.com/user-attachments/assets/d3931883-a865-4aac-9644-e9c291e7dd62)
+
+
 ### Executive Summary
 
 **Business Context and Objective**
